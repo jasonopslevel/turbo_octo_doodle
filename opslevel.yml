@@ -1,0 +1,26 @@
+---
+version: 1
+service:
+  name: Turbo Octo Doodle
+  lifecycle:
+  tier:
+  product:
+  owner: jason_s_team
+  language:
+  framework:
+  description:
+  aliases:
+  - turbo-octo-doodle
+  tags:
+  - key: test
+    value: test
+  repositories:
+  - name: jasonopslevel/turbo_octo_doodle
+    path: "/"
+    provider: github
+  tools:
+  - name: 'adsf '
+    category: admin
+    url: http://example.com
+    environment:
+  dependencies:
