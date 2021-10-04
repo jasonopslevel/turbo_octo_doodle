@@ -12,6 +12,8 @@ service:
   aliases:
   - turbo-octo-doodle
   tags:
+  - key: test
+    value: test
   repositories:
   - name: jasonopslevel/turbo_octo_doodle
     path: "/"
