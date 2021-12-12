@@ -1,6 +1,6 @@
 # turbo_octo_doodle
 
-![overall](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2Fa629f7dd-fee2-42a6-87b0-f0eef4d87c6a)
+![Observability](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FWbOiOkNOei-7aXFoVGuETFcMNQxYAMvvXwqZk0dkNnk%2FObservability)
 
 ![security](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2Fa629f7dd-fee2-42a6-87b0-f0eef4d87c6a%2Fsecurity)
 
